@@ -1,12 +1,17 @@
 # Site settings
 title: Game Developer
-email: your-email@domain.com
+email: M0rph3u5.uk@gmail.com
 description: > # keep this and put description below
   Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
+  ZBrush & Blender - Modelling/Sculpting and asset/environment creation
+  Quixel Suite & Substance Painter - Texturing
+  Unreal Engine - Coding (both C++ & Blueprints)
+
+url: "https://M0RPH3U5-UK.github.io" # the base hostname & protocol for your site
+ArtStation_url: "https://www.artstation.com/m0rph3u5"
+Youtube_url: "https://www.youtube.com/@m0rph3u58"
+github_username: M0RPH3U5-UK
+twitter_username: M0rph3u5_UK
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
